@@ -42,4 +42,8 @@ This project demonstrates a real-time pet feeding system using an RTC module and
 - Add mobile app integration for notifications
 - Include an LCD to show current time and feed schedule
 - Add food level sensor to avoid overfill or empty bowl
-
+## Features
+- Automatic pet feeding using RTC scheduling
+- Timed food dispensing
+- Embedded system based automation
+- User-friendly feeding management
