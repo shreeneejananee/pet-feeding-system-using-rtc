@@ -35,6 +35,14 @@ This project demonstrates a real-time pet feeding system using an RTC module and
 3. When the time matches a feeding schedule, the controller activates a servo motor.
 4. The servo dispenses a controlled amount of food into the pet’s bowl.
 5. This continues automatically according to the configured schedule.
+##  Test Cases
+
+* Verified that the RTC module maintains accurate time even after power loss.
+* Checked that the system triggers feeding exactly at the scheduled time.
+* Ensured the servo motor activates and dispenses food smoothly on trigger.
+* Confirmed consistent portion control for each feeding cycle.
+* Tested system stability during continuous operation over multiple feeding cycles.
+
 
 ## Future Improvements
 
